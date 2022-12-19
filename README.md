@@ -5,4 +5,4 @@ O banco de dados é composto por 768 linhas e 9 colunas onde contém os exames m
 
 Usei 4 classificadores diferentes com a finalidade de ver qual é o mais adequado para esse problema.
 
-Modelos usados(RANDOM FOREST, XGBOOST, LIGHTGBM, CATBOOST)
+Modelos usados(RANDOM FOREST, XGBOOST, LIGHTGBM, CATBOOST)    
